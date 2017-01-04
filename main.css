@@ -1,0 +1,36 @@
+h2 {
+  color: gold;
+}
+
+#emperor {
+  color: deepskyblue;
+  font-family: cursive;
+  text-align: center;
+}
+
+#bottom {
+  color: orangered;
+  text-align: center
+}
+
+.ss {
+ color: black;
+ border-radius: 50%;
+ border-color: beige;
+}
+
+.whip {
+  background-color: tomato;
+  text-align: center;
+  color: white;
+  
+}
+
+.display {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// need to change the color of text
+// in class whip so the li's have color white
